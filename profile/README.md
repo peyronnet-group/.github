@@ -1,7 +1,7 @@
 <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/peyronnet-group/.github/raw/main/profile/D.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/peyronnet-group/.github/raw/main/profile/L.svg">
-      <img alt="A isometric image representing all apps made by Léo Corporation." src="https://github.com/peyronnet-group/.github/raw/main/profile/L.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/peyronnet-group/.github/raw/main/profile/L.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/peyronnet-group/.github/raw/main/profile/D.svg">
+      <img alt="The banner of Peyronnet Group." src="https://github.com/peyronnet-group/.github/raw/main/profile/D.svg">
     </picture>
 <br>
 
